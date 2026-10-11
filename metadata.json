@@ -1,0 +1,6 @@
+{
+  "name": "Foodio",
+  "description": "Food delivery app inspired by Swiggy, featuring customer ordering, live order tracking, restaurant management, delivery partner portal, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
